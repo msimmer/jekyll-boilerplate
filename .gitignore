@@ -1,8 +1,11 @@
+_idea
 _site
 _assets/bower
 .sass-cache
 .asset-cache
 .jekyll-metadata
+.htaccess
+.htpasswd
 
 
 # Compiled source #

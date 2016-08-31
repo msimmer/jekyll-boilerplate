@@ -1,0 +1,6 @@
+
+local_path: '/path/to/_site'
+remote_path: '/path/to/server'
+ssh_user: 'username'
+ssh_host: '0.0.0.0'
+rsync_cmd: "rsync -avzP -e 'ssh'"

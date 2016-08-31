@@ -10,3 +10,5 @@ $ bundle install
 $ bower install
 $ jekyll serve
 ```
+
+Probably a good idea to add `_rsync.yml` to `.gitignore` after cloning the repo.

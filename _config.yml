@@ -36,8 +36,6 @@ markdown: kramdown
 gems:
   - jekyll-assets
   - uglifier
-  # - autoprefixer-rails
-  # - sprockets-es6
 
 include:
   - 'fonts'
@@ -50,6 +48,8 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - Rakefile
+  - bower.json
 
 # asset-pipeline settings
 # assets:
