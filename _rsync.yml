@@ -1,4 +1,3 @@
-
 local_path: '/path/to/_site'
 remote_path: '/path/to/server'
 ssh_user: 'username'
