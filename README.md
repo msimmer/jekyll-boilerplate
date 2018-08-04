@@ -3,6 +3,8 @@
 
 Boilerplate for Jekyll sites. Includes [jekyll-assets](https://github.com/jekyll/jekyll-assets) and `npm` support.
 
+## Install
+
 ```console
 $ bundle install
 $ npm install
