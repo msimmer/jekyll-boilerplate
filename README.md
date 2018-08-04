@@ -1,13 +1,11 @@
 
 # jekyll-boilerplate
 
- * [jekyll-assets](https://github.com/jekyll/jekyll-assets)
- * [autoprefixer-rails](https://github.com/ai/autoprefixer-rails)
- * [sprockets-es6](https://github.com/TannerRogalsky/sprockets-es6)
+Boilerplate for Jekyll sites. Includes [jekyll-assets](https://github.com/jekyll/jekyll-assets) and `npm` support.
 
-```bash
+```console
 $ bundle install
-$ bower install
+$ npm install
 $ rake serve # [serve | build | deploy]
 ```
 
