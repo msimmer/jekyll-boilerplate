@@ -1,0 +1,23 @@
+{
+  "name": "jekyll-boilerplate",
+  "version": "0.0.1",
+  "description": "* [jekyll-assets](https://github.com/jekyll/jekyll-assets)  * [autoprefixer-rails](https://github.com/ai/autoprefixer-rails)  * [sprockets-es6](https://github.com/TannerRogalsky/sprockets-es6)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msimmer/jekyll-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "Maxwell Simmer <maxwell.simmer@gmail.com> (http://maxwellsimmer.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msimmer/jekyll-boilerplate/issues"
+  },
+  "homepage": "https://github.com/msimmer/jekyll-boilerplate#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}

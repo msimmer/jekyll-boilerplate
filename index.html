@@ -4,4 +4,4 @@ title: Home
 permalink: /
 ---
 
-# Hello {{page.title}}
+# Page: {{page.title}}
